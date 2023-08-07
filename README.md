@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/printinqq/count.svg?"  />
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
 </div>
 
 ###
