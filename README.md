@@ -31,6 +31,7 @@
 ###
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+<a href="https://github.com/printinqq?tab=followers"><img src="https://img.shields.io/github/followers/printinqq?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ###
 
@@ -39,5 +40,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
+
+
 
 ###
