@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Josh, I am learning c# and lua!</p>
+<p align="left">I'm Josh, I am learning C#!</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018!<br>📚 Learning C#<br>🎯 Goals: Make Money:)<br>🎲 Fun fact: I Can't Code!!</p>
+<p align="left">✨ Creating bugs since 2018!<br>📚 Studying Creative Digital Media<br>🎯 Goals: Make Money:)<br>🎲 Fun fact: I Can't Code!!</p>
 
 ###
 
