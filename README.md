@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning c# & lua<br>🎯 Goals: learn c# & lua<br>🎲 Fun fact: theres no fun, its github</p>
+<p align="left">✨ Creating bugs since 2018!<br>📚 Learning C#<br>🎯 Goals: Make Money:)<br>🎲 Fun fact: I Can't Code!!</p>
 
 ###
 
