@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018!<br>📚 Studying Creative Digital Media<br>🎯 Goals: Make Money:)<br>🎲 Fun fact: I Can't Code!!</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 Studying Creative Digital Media<br>🎯 Goals: make 💸<br>🎲 Fun fact: cant code</p>
 
 ###
 
